@@ -226,8 +226,9 @@ body {
 
 img {
   width: auto;
-  max-height: 100%;
+  max-width: 100%;
   height: auto;
+  object-fit: none;
 }
 
 #gallery-overlay {
