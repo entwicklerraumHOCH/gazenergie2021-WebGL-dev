@@ -221,13 +221,15 @@ body {
   position: relative;
   flex: 0 0 100%;
   width: 100%;
+  height: 100%;
   transition: transform 400ms ease-out;
 }
 
 img {
   width: auto;
-  max-height: 100vh;
+  max-height: 100%;
   height: auto;
+  display: block;
   object-fit: none;
 }
 
