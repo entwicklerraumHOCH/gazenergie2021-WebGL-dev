@@ -226,9 +226,9 @@ body {
 
 img {
   width: auto;
-  max-width: 100%;
+  max-height: 100vh;
   height: auto;
-  object-fit: scale-down;
+  object-fit: none;
 }
 
 #gallery-overlay {
