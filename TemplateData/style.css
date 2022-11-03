@@ -228,6 +228,8 @@ img {
   width: auto;
   max-width: 100%;
   height: auto;
+  padding-bottom: 68px ;
+  padding-top: 4px;
   object-fit: scale-down;
 }
 
